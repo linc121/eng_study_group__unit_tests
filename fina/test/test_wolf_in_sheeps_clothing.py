@@ -1,5 +1,5 @@
 import unittest
-from code_challenges.wolf_in_sheeps_clothing.wolf_in_sheeps_clothing import warn_the_sheep
+from fina.code_challenges.wolf_in_sheeps_clothing.wolf_in_sheeps_clothing import warn_the_sheep
 
 
 class MyTestWolfCase(unittest.TestCase):
