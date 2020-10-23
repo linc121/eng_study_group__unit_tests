@@ -1,4 +1,4 @@
-from code_challenges.wolf_in_sheeps_clothing import warn_the_sheep
+from code_challenges.wolf_in_sheeps_clothing.wolf_in_sheeps_clothing import warn_the_sheep
 
 
 def main():
